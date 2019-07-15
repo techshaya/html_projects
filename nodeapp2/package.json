@@ -1,0 +1,17 @@
+{
+  "name": "nodeapp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "marked": "^0.6.2",
+    "mongodb": "^3.2.3"
+  }
+}
